@@ -1,10 +1,10 @@
-London School REST Service
+Chicago School REST Service
 ==========================
 
 This is an example application which provides a REST interface for a very simple social network.
-It is used to demonstrate the influence of horizontal slicing (implemented in London School TDD) on coupling and cohesion.
+It is used to demonstrate the influence of vertical slicing (implemented in Chicago School TDD) on coupling and cohesion.
 
-This Java application is structured like those that we typically find in corporate environments.
+This Java application is structured in a way that we typically miss in corporate environments.
 It uses
 * Java 17
 * Javalin
@@ -14,8 +14,8 @@ It uses
 Alternative Universe
 --------------------
 
-There is hopefully gonna be a second repository demonstrating the
-same application implemented in vertical slices and Chicago School TDD.
+There is a second repository demonstrating the
+same application implemented in horizontal slices and London School TDD.
 
 Requirements
 ------------
